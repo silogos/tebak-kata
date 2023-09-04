@@ -37,3 +37,10 @@ h1 {
   background-color: rgb(53, 54, 58);
   position: relative;
 }
+
+.title {
+  padding: 2rem 1rem;
+  font-size: 3rem;
+  text-align: center;
+  /* border-bottom: 2px solid; */
+}
